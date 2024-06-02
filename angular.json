@@ -40,7 +40,8 @@
             "configDir": "projects/libilb/.storybook",
             "styles": [
               "node_modules/primeng/resources/primeng.min.css",
-              "projects/libilb/src/themes/libilb.min.css"
+              "projects/libilb/src/themes/libilb.min.css",
+              "css/output.css"
             ],
             "browserTarget": "libilb:build",
             "compodoc": false,
